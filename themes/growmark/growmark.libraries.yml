@@ -1,0 +1,17 @@
+global-styling:
+  version: VERSION
+  css:
+    base:
+      assets/lib/animate/animate.min.css: {}
+      assets/lib/owlcarousel/assets/owl.carousel.min.css: {}
+      assets/lib/lightbox/css/lightbox.min.css: {}
+      assets/css/bootstrap.min.css: {}
+      assets/css/style.css: {}
+  js:
+    assets/lib/wow/wow.min.js: {}
+    assets/lib/easing/easing.min.js: {}
+    assets/lib/waypoints/waypoints.min.js: {}
+    assets/lib/owlcarousel/owl.carousel.min.js: {}
+    assets/lib/lightbox/js/lightbox.min.js: {}
+    assets/js/main.js: {}
+  
